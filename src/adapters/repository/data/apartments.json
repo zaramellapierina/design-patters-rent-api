@@ -1,0 +1,16 @@
+[
+    {
+        "code": "1001101",
+        "apartmentNumber": 101,
+        "floor": 1,
+        "meters": 30,
+        "typologyType": "Butterfly"
+    },
+    {
+        "code": "1001102",
+        "apartmentNumber": 102,
+        "floor": 1,
+        "meters": 30,
+        "typologyType": "2D1B"
+    }
+]
