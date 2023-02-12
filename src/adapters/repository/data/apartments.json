@@ -1,6 +1,7 @@
 [
     {
         "code": "1001101",
+        "buildingCode": "100",
         "apartmentNumber": 101,
         "floor": 1,
         "meters": 30,
@@ -8,6 +9,7 @@
     },
     {
         "code": "1001102",
+        "buildingCode": "100",
         "apartmentNumber": 102,
         "floor": 1,
         "meters": 30,

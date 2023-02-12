@@ -1,0 +1,41 @@
+[
+    {
+        "code": "100",
+        "name": "Edificio 100",
+        "address": "Calle 1, numero 100",
+        "city": "Santiago",
+        "state": "Region Metropolitana",
+        "country": "Chile",
+        "floorCount": 16,
+        "typologiesType": [
+            "Butterfly",
+            "2D1B"
+        ]
+    },
+    {
+        "code": "101",
+        "name": "Edificio 101",
+        "address": "Calle 1, numero 101",
+        "city": "Santiago",
+        "state": "Region Metropolitana",
+        "country": "Chile",
+        "floorCount": 16,
+        "typologiesType": [
+            "Butterfly",
+            "2D1B"
+        ]
+    },
+    {
+        "code": "102",
+        "name": "Edificio 102",
+        "address": "Calle 1, numero 102",
+        "city": "Santiago",
+        "state": "Region Metropolitana",
+        "country": "Chile",
+        "floorCount": 16,
+        "typologiesType": [
+            "Butterfly",
+            "2D1B"
+        ]
+    }
+]

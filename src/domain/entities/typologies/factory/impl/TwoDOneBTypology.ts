@@ -1,5 +1,5 @@
 import { Typology } from "../../Typology"
-import { TypologieTypes } from "../../TypologyTypes"
+import { TypologyTypes } from "../../TypologyTypes"
 import { TypologyFactory } from "../TypologyFactory"
 
 
@@ -12,7 +12,7 @@ export class TwoDOneBTypology implements TypologyFactory {
         }
     }
 
-    getTypology(): TypologieTypes {
-        return TypologieTypes["2D1B"]
+    getTypology(): TypologyTypes {
+        return "2D1B"
     }
 }

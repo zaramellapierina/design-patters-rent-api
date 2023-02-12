@@ -1,7 +1,7 @@
 import { Typology } from "../Typology";
-import { TypologieTypes } from "../TypologyTypes";
+import { TypologyTypes } from "../TypologyTypes";
 
 export interface TypologyFactory {
     createTypology(): Typology,
-    getTypology(): TypologieTypes
+    getTypology(): TypologyTypes
 }

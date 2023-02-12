@@ -1,5 +1,5 @@
 import { Typology } from "../../Typology"
-import { TypologieTypes } from "../../TypologyTypes"
+import { TypologyTypes } from "../../TypologyTypes"
 import { TypologyFactory } from "../TypologyFactory"
 
 export class ButterflyTypology implements TypologyFactory {
@@ -11,7 +11,7 @@ export class ButterflyTypology implements TypologyFactory {
         }
     }
 
-    getTypology(): TypologieTypes {
-        return TypologieTypes.Butterfly
+    getTypology(): TypologyTypes {
+        return "Butterfly"
     }
 }

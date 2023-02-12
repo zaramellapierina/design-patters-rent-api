@@ -1,4 +1,5 @@
-import { TypologieTypes } from "./typologies/TypologyTypes";
+import { Apartment } from "./Apartment";
+import { TypologyTypes } from "./typologies/TypologyTypes";
 
 export interface Building {
     code: string,
@@ -8,5 +9,13 @@ export interface Building {
     state: string,
     country: string,
     floorCount: number,
-    typologiesType: TypologieTypes
+    apartments?: Apartment[]
+    /* typologiesType: TypologieTypes */
+}
+
+export interface BuildingFilters {
+    name: string,
+    city: string,
+    state: string,
+    country: string,
 }
